@@ -1,0 +1,1 @@
+<h1>data from service:${DATA}</h1>
